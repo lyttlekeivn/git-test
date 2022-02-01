@@ -6,4 +6,9 @@ package com.cdrhp.git;
  * @Description:
  */
 public class GitTest {
+
+    public static void main(String[] args) {
+
+    }
+
 }
